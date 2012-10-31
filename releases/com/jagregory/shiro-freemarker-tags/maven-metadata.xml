@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jagregory</groupId>
+  <artifactId>shiro-freemarker-tags</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121031062925</lastUpdated>
+  </versioning>
+</metadata>
