@@ -3,6 +3,7 @@
   <groupId>com.jagregory</groupId>
   <artifactId>shiro-freemarker-tags</artifactId>
   <versioning>
+    <release>0.1-SNAPSHOT</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
     </versions>
